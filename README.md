@@ -1,10 +1,22 @@
-# Book-Management-System-signup-login-forget-password-using-python-GUI-tkinter-sqlite3-smtplib-and-more
+# Book-Management-System using Python Tkinter made for university project wayy back :)
 
-This is generic signup, login, forget password form coded in oops python using
+Has proper implementation of following featuers, so people can take inspiration and add these features on their own projects
+-signup
+-login
+-forget password
+-OTP based authentication verification
+
+Uses the following tech stack
+
+-Language: Python
+-GUI library: tkinter
+DB: sqlite3-smtplib-and-more
+
+Certain parts of code follows standard Object Oriented Programming Paradigm.
 Tkinter for awesome desktop GUI, 
 sqlite3 for the database and 
-smtplib library for sending emails to give otp for registration online
-it is a mini project which I'm sharing please support my hard work of day and night by 
-just subscribing to my youtube channel https://www.youtube.com/channel/UCCuNQ7G4mCcoGq-y-RCjmhw 
-it will help you to learn more things and work with me in the future, 
-I'll be continuously programming for good,  thanks :)
+smtplib library for sending emails for otp to register online
+
+Mini project explanation: at https://www.youtube.com/channel/UCCuNQ7G4mCcoGq-y-RCjmhw (Subscribe for more)
+
+Keep Building 🚀
